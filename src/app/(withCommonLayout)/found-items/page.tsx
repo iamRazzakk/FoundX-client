@@ -1,10 +1,7 @@
-
-const FondItemsPage = () => {
-    return (
-        <div>
-            <h1>This found Page</h1>
-        </div>
-    );
-};
-
-export default FondItemsPage;
+export default function page() {
+  return (
+    <div>
+      <h1> This is Found items page </h1>
+    </div>
+  );
+}
